@@ -1,0 +1,8 @@
+@charset "UTF-8";
+
+body {
+    background: rgb(151, 226, 149);
+    color: rgb(21, 34, 58);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}

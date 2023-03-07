@@ -1,0 +1,31 @@
+body{
+    background: rgb(121, 5, 156);
+    font: normal 10pt Verdana;
+}
+header{
+    color: aliceblue;
+    text-align: center;
+}
+section{
+    background: rgb(223, 221, 221);
+    border-radius: 15px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 4px 4px 10px rgb(54, 53, 53);
+
+
+}
+footer{
+    color: aliceblue;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    font-size: large;
+
+}
+div {
+    text-align: center;
+    padding: 10px;
+    font: normal 15pt Verdana;
+}
